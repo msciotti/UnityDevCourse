@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TextController.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\BlockBreaker\Assets\Scripts\Paddle.cs">
     <Files>
-      <File FileName="Assets\TextController.cs" Line="32" Column="48" />
+      <File FileName="..\BlockBreaker\Assets\Scripts\Paddle.cs" Line="11" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
